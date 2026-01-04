@@ -8,4 +8,5 @@ This repository contains solutions to the top 150 LeetCode interview problems. E
 - [27. Remove Element](27_Remove_Element/)
 - [80. Remove Duplicates from Sorted Array II](80_Remove_Duplicates_from_Sorted_Array_II/)
 - [88. Merge Sorted Array](88_Merge_Sorted_Array/)
-- [169. Majority Element](169_Majority_Element/)" 
+- [169. Majority Element](169_Majority_Element/)
+- [189. Rotate Array](189_Rotate_Array/)" 
