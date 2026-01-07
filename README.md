@@ -1,14 +1,24 @@
-"# Top Interview 150
+# Top Interview 150
 
-This repository contains solutions to the top 150 LeetCode interview problems. Each problem is organized in its own folder with corresponding solution files.
+Welcome to **Top Interview 150**, a curated collection of solutions to the most important LeetCode problems for technical interviews.  
+This repository is designed to help developers prepare efficiently for coding interviews, understand patterns, and master problem-solving techniques.
 
-## Problems
+## What’s Inside
+- Well-structured and organized solution files
+- Clear explanations for each problem
+- Optimized approaches with time and space complexity analysis
+- Ready-to-use code for practice and reference
 
-- [26. Remove Duplicates from Sorted Array](26_Remove_Duplicates_from_Sorted_Array/)
-- [27. Remove Element](27_Remove_Element/)
-- [80. Remove Duplicates from Sorted Array II](80_Remove_Duplicates_from_Sorted_Array_II/)
-- [88. Merge Sorted Array](88_Merge_Sorted_Array/)
-- [121. Best Time to Buy and Sell Stock](121_Best_Time_to_Buy_and_Sell_Stock/)
-- [122. Best Time to Buy and Sell Stock II](122_Best_Time_to_Buy_and_Sell_Stock_II/)
-- [169. Majority Element](169_Majority_Element/)
-- [189. Rotate Array](189_Rotate_Array/)" 
+## Why This Repository
+- Focused on interview preparation and key problem patterns
+- Helps improve coding skills and algorithmic thinking
+- Serves as a personal reference and portfolio showcase
+
+## Usage
+- Browse problems by category or difficulty
+- Study solutions and explanations
+- Use as a guide for practicing and revising coding interview topics
+
+---
+
+> Aimed at helping developers learn faster, code smarter, and ace technical interviews.
